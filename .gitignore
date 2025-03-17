@@ -1,0 +1,82 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/c_cpp_properties.json
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+
+# Windows-specific files
+windows/.flutter-plugins
+windows/.flutter-plugins-dependencies
+windows/flutter/ephemeral/
+
+# Web-specific files
+web/.flutter-plugins
+web/.flutter-plugins-dependencies
+web/flutter/ephemeral/
+
+# Ignore iOS and macOS-related files
+ios/
+macos/
+
+# Environment Variables
+.env
+.env.*
+android/key.properties  # Moved from app/ to android/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android build artifacts
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/app/my-release-key.jks
+android/app/*.keystore
+android/*.keystore  # Added for safety
+
+# Flutter build outputs
+*.log
+*.lock
+*.so
+*.a
+*.dylib
+*.apk
+*.aab
+*.xcarchive
+firebase_app_id_file.json
+
+# Ignore unnecessary system files
+Thumbs.db
