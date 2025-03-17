@@ -9,7 +9,7 @@
 **Real-time currency conversion in your pocket**  
 A sleek, modern Flutter app for instant currency exchange rates and conversions
 
-[Features](#-features) • [Screenshots](#-screenshots) • [Installation](#-installation) • [Usage](#-how-to-use) • [Tech Stack](#-tech-stack) • [Contributing](#-contributing) • [License](#-license)
+[Features](#-features) • [Screenshots](#-screenshots) • [Installation](#-installation) • [Usage](#-how-to-use) • [Tech Stack](#%EF%B8%8F-tech-stack) • [Contributing](#-contributing) • [License](#-license)
 
 </div>
 
